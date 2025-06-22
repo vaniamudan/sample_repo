@@ -1,1 +1,16 @@
 Hello this is deployment stage .So work carefully
+git clone "repo url"
+cd folderame
+git checkout <branchname>
+git pull
+git status
+---add all you changes or files----
+git add <filename1> <filename2> 
+git status
+git commit -m "commit message"
+git status
+git push
+git status
+git pull
+git status
+git log
