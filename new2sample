@@ -1,0 +1,8 @@
+git clone "url of repo"
+git checkout branchname
+git pull
+git status
+git add filename
+git add .
+git commit -m ""
+git push
